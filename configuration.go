@@ -105,7 +105,7 @@ func NewConfiguration() *Configuration {
 		Debug:            false,
 		Servers:          ServerConfigurations{
 			{
-				URL: "//rest.vuls.biz",
+				URL: "//rest.2119e7c929.vuls.biz",
 				Description: "No description provided",
 			},
 		},
