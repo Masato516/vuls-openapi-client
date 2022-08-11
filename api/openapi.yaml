@@ -7,7 +7,7 @@ info:
   title: Future Vuls Public API
   version: v1
 servers:
-- url: //rest.vuls.biz/
+- url: //rest.2119e7c929.vuls.biz/
 paths:
   /health:
     get:
